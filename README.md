@@ -10,4 +10,4 @@ This website can switch between dark and light themes. In addition there is also
 ## Other sources
 Favicon used on this website is a royalty free, free for use image from [Pixabay](https://pixabay.com/) under the [Pixabay Content License](https://pixabay.com/service/license-summary/)
 
-## View the website here: [Live Site]()
+## View the website here: [Live Site](https://adrianvalent.github.io/Day-Night-Theme-Switch/)
